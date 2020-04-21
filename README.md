@@ -2,10 +2,15 @@
 
 NodeJS:
 ```
-sudo apt install nodejs
+$ sudo apt install nodejs
 ```
 
-Instalação do mongoose:
+npm:
+```
+4 sudo apt install npm
+```
+
+mongoose:
 ```
 $ npm install mongoose
 ```
