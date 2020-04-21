@@ -14,19 +14,10 @@ mongoose:
 ```
 $ sudo apt install mongodb-server-core
 $ sudo apt install mongodb-clients
+$ sudo mkdir -p /data/db
 ```
 
-express:
-```
-$ npm install --save express
-```
 
-handle-bars:
-```
-$ npm install --save handle-bars
-```
 
-express-session:
-```
-$ npm install --save express-session
-```
+
+
