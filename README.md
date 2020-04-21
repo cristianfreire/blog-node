@@ -6,7 +6,7 @@ $ sudo apt install nodejs
 ```
 npm:
 ```
-4 sudo apt install npm
+$ sudo apt install npm
 ```
 mongoose:
 ```
