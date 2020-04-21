@@ -1,4 +1,6 @@
 # blog-node
 
 Instalação do mongoose:
-[]$ npm install mongoose
+```
+$ npm install mongoose
+```
