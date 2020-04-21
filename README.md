@@ -1,3 +1,4 @@
 # blog-node
 
-teste readme
+Instalação do mongoose:
+[]$ npm install mongoose
