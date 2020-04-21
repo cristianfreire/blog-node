@@ -1,7 +1,9 @@
 # blog-node
 
 NodeJS:
-[nodejs](https://nodejs.org/en/)
+```
+sudo apt install nodejs
+```
 
 Instalação do mongoose:
 ```
